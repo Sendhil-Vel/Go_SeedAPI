@@ -35,6 +35,11 @@ $ go run baseAPI.go
 $ go run baseAPI.go
 ```
 
+## Sample URL
+* assuming site is running locally at port 8080<br/>
+http://localhost:8080<br/>
+http://localhost:8080/getjson<br/>
+
 ## How to use?
 * .env is used to set environment variables. You can change 8080 to any port. Don't using spaces.
 * baseAPI.go is the main go file which configures and start the API in provided port.
