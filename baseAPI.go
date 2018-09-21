@@ -1,3 +1,14 @@
+/*
+// Copyright 2018 Sendhil Vel. All rights reserved.
+// Use of this source code is governed by a BSD-style
+// license that can be found in the LICENSE file.
+
+base_website.go
+Date 		: 19/08/2018
+Comment 	: This is seed file for creating any go API.
+Version 	: 1.0.9
+by Sendhil Vel
+*/
 package main
 
 /*
