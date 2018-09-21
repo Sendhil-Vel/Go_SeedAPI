@@ -1,4 +1,4 @@
-# Go_Seed_Website ![CI status](https://img.shields.io/badge/build-passing-brightgreen.svg)
+# Go_SeedAPI ![CI status](https://img.shields.io/badge/build-passing-brightgreen.svg)
 
 Go_SeedAPI is a seed project to start a new API in Golang.
 
